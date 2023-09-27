@@ -1,0 +1,31 @@
+.search-bar {
+  display: flex;
+  align-items: center;
+  width: 711px;
+  height: 66px;
+  margin-left: 364px;
+  margin-top: 126px;
+
+  flex-shrink: 0;
+  border-radius: 25px;
+  background: #d9d9d9;
+}
+
+.search-bar input {
+ background-color: inherit;
+  width: 552px;
+  height: 35px;
+  flex-shrink: 0;
+  color: #524e4e;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  border-radius: 10px;
+  border: inherit;
+}
+
+.search-bar img {
+  margin-left: 40px;
+}
